@@ -11,7 +11,7 @@ It is designed to work on macOS, where these types of plist files are commonly u
 
 - Converts multiple `.abcdp` files in a batch.
 - Extracts information such as names, job titles, organizations, notes, phone numbers, email addresses, URLs, and addresses.
-- Handles empty fields gracefully.
+- Handles empty fields.
 
 ## Requirements
 
