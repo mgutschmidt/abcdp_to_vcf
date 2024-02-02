@@ -20,7 +20,7 @@ It is designed to work on macOS, where these types of plist files are commonly u
 
 ## Usage
 
-1. Clone or download this repository to your local machine.
+1. Download this Script to your local machine.
 2. Replace the `input_folder` and `output_folder` paths in the script with your desired directories.
 3. Run the script using Python
 
