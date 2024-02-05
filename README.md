@@ -4,6 +4,7 @@ Python script to convert contact information from Mac OS Address Book Backups (`
 Problem is, you can't reimport `.abcdp` files into Contacts as mentioned here: 
   - https://discussions.apple.com/thread/254511950?sortBy=best
   - https://discussions.apple.com/thread/8239433?sortBy=best
+  - https://discussions.apple.com/thread/250532928?sortBy=best
 
 It is designed to work on macOS, where these types of plist files are commonly used for storing contact information.
 
